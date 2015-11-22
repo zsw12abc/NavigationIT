@@ -449,16 +449,16 @@ li, ul {
   background-image: url(../img/sliders/phone1.png);
   background-repeat: no-repeat;
   background-position: center;
-  height: 350px;
+  height: 200px;
   width: 100%;
   }
 
 #home .phone2{
-  background-image: url(../img/sliders/phone2.png);
+  background-image: url(../img/sliders/acs.png);
   background-repeat: no-repeat;
-  background-position: top;
-  height: 750px;
-  width: 100%;
+  background-position: top ;
+  height: 350px;
+  width: auto;
   }
 
 #home .phone3{

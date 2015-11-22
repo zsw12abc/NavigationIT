@@ -1,6 +1,6 @@
 <?php
-	$to = "jennpereira13@gmail.com"; /*Your Email*/
-	$subject = "Messsage from Pereira Digital Media Template"; /*Issue*/
+	$to = "Shaowei.Zhang@linghang.education"; /*Your Email*/
+	$subject = "Messsage from Navigation IT Job Training"; /*Issue*/
 	$date = date ("l, F jS, Y"); 
 	$time = date ("h:i A"); 	
 	$msg="
