@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a25828-093c-4e22-8ad1-334ec6b5d31e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/huge533a7b6b20ef2.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="NavigationIT.iws" />
@@ -26,10 +27,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78">
-              <caret line="401" column="14" selection-start-line="401" selection-start-column="14" selection-end-line="401" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.62352943">
+              <caret line="596" column="180" selection-start-line="596" selection-start-column="180" selection-end-line="596" selection-end-column="180" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -250,10 +252,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78">
-          <caret line="401" column="14" selection-start-line="401" selection-start-column="14" selection-end-line="401" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.62352943">
+          <caret line="596" column="180" selection-start-line="596" selection-start-column="180" selection-end-line="596" selection-end-column="180" />
           <folding>
             <element signature="n#style#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
