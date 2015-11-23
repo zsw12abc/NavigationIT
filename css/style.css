@@ -446,11 +446,11 @@ li, ul {
   }
 
 #home .phone1{
-  background-image: url(../img/sliders/phone1.png);
+  background-image: url(../img/sliders/superman.png);
   background-repeat: no-repeat;
-  background-position: center;
-  height: 200px;
-  width: 100%;
+  background-position: top;
+  height: 320px;
+  width: auto;
   }
 
 #home .phone2{

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a25828-093c-4e22-8ad1-334ec6b5d31e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7cc829d3gw1exswv3n2qgj20sg0j1qd2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/U2450P31DT20131209190322.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="NavigationIT.iws" />
@@ -23,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.642857">
-              <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.6682353">
+              <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5181818">
-              <caret line="456" column="48" selection-start-line="456" selection-start-column="48" selection-end-line="456" selection-end-column="48" />
+            <state vertical-scroll-proportion="-2.0357144">
+              <caret line="468" column="14" selection-start-line="468" selection-start-column="14" selection-end-line="468" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -52,6 +55,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -221,18 +225,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.642857">
-          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+        <state vertical-scroll-proportion="-2.0357144">
+          <caret line="468" column="14" selection-start-line="468" selection-start-column="14" selection-end-line="468" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5181818">
-          <caret line="456" column="48" selection-start-line="456" selection-start-column="48" selection-end-line="456" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.6682353">
+          <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
           <folding />
         </state>
       </provider>
