@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a25828-093c-4e22-8ad1-334ec6b5d31e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7cc829d3gw1exswv3n2qgj20sg0j1qd2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/U2450P31DT20131209190322.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="NavigationIT.iws" />
@@ -29,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6682353">
-              <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.46705884">
+              <caret line="345" column="42" selection-start-line="345" selection-start-column="42" selection-end-line="345" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -235,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6682353">
-          <caret line="213" column="50" selection-start-line="213" selection-start-column="50" selection-end-line="213" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.46705884">
+          <caret line="345" column="42" selection-start-line="345" selection-start-column="42" selection-end-line="345" selection-end-column="42" />
           <folding />
         </state>
       </provider>
