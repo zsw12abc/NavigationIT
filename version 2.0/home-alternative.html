@@ -40,9 +40,22 @@
 		<!-- Search -->
 		<div class="search-trigger"></div>
 		<div class="search-form disabled">
-			<form action="404.html">
-				<input name="search" id="search" type="text" class="search" onFocus="if(this.value == 'Search...') { this.value = ''; }" onBlur="if(this.value == '') { this.value = 'Search...'; }" value="Search..." />
-			</form>
+			<!--<form action="404.html">-->
+				<!--<input name="search" id="search" type="text" class="search" onFocus="if(this.value == 'Search...') { this.value = ''; }" onBlur="if(this.value == '') { this.value = 'Search...'; }" value="Search..." />-->
+			<!--</form>-->
+            <script>
+                (function() {
+                    var cx = '001743501170272181474:d_pxprxlllk';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                            '//cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                })();
+            </script>
+            <gcse:search></gcse:search>
 		</div><!-- END -->
 
 		<!-- Menu -->

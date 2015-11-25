@@ -40,10 +40,32 @@
 		<!-- Search -->
 		<div class="search-trigger"></div>
 		<div class="search-form disabled">
-			<form action="404.html">
-				<input name="search" id="search" type="text" class="search" onFocus="if(this.value == 'Search...') { this.value = ''; }" onBlur="if(this.value == '') { this.value = 'Search...'; }" value="Search..." />
-			</form>
-		</div><!-- END -->
+			<!--<form action="404.html">-->
+				<!--<input name="search" id="search" type="text" class="search" onFocus="if(this.value == 'Search...') { this.value = ''; }" onBlur="if(this.value == '') { this.value = 'Search...'; }" value="Search..." />-->
+			<!--</form>-->
+            <!--<form method="get" action="http://www.google.com/search" target="_blank">-->
+                <!--<input type="text name="q">-->
+                <!--<input type="submit" name="btnG" value="Google 搜索">-->
+                <!--<input type="hidden" name="ie" value="UTF-8">-->
+                <!--<input type="hidden" name="oe" value="UTF-8">-->
+                <!--<input type="hidden" name="hl" value="zh-CN">-->
+                <!--<input type="hidden" name="domains" value="http://uni.linghang.education">-->
+                <!--<input type="hidden" name="sitesearch" value="http://uni.linghang.education">-->
+            <!--</form>-->
+            <script>
+                (function() {
+                    var cx = '001743501170272181474:d_pxprxlllk';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                            '//cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                })();
+            </script>
+            <gcse:search></gcse:search>
+        </div><!-- END -->
 
 		<!-- Menu -->
 		<ul class="nav-content clearfix">
