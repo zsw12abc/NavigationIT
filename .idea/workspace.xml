@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69a25828-093c-4e22-8ad1-334ec6b5d31e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/version 2.0/about.html" afterPath="$PROJECT_DIR$/version 2.0/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/version 2.0/contact.html" afterPath="$PROJECT_DIR$/version 2.0/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/version 2.0/home-alternative.html" afterPath="$PROJECT_DIR$/version 2.0/home-alternative.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/version 2.0/portfolio.html" afterPath="$PROJECT_DIR$/version 2.0/portfolio.html" />
     </list>
     <ignored path="NavigationIT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version 2.0/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.053262316">
-              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+            <state vertical-scroll-proportion="23.529411">
+              <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -82,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/version 2.0/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
-              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.8071979">
+              <caret line="151" column="80" selection-start-line="151" selection-start-column="80" selection-end-line="151" selection-end-column="80" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -111,10 +108,10 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/webdeveloper.html" />
-        <option value="$PROJECT_DIR$/version 2.0/about.html" />
         <option value="$PROJECT_DIR$/version 2.0/home-alternative.html" />
         <option value="$PROJECT_DIR$/version 2.0/contact.html" />
         <option value="$PROJECT_DIR$/version 2.0/portfolio.html" />
+        <option value="$PROJECT_DIR$/version 2.0/about.html" />
       </list>
     </option>
   </component>
@@ -410,16 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version 2.0/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/version 2.0/home-alternative.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.196078">
@@ -442,8 +429,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/version 2.0/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.053262316">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        <state vertical-scroll-proportion="23.529411">
+          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version 2.0/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8071979">
+          <caret line="151" column="80" selection-start-line="151" selection-start-column="80" selection-end-line="151" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
