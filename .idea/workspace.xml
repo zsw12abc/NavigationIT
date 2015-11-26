@@ -2,638 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69a25828-093c-4e22-8ad1-334ec6b5d31e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/css/style_v.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/ACS Logo color.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/australian-visa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/best-certifications.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/biggerdot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/dot.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/grad_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/grad_left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/grad_right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/grad_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/next_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/prev_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/programmer-working-on-the-computer_23-2147505689.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/images/top-it-certifications1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/appstore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/action.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/background-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/background-nav.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/contact.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/gray.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/green.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/quote-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/bg/video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/client/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/client/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/client/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/beige.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/color.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/dark-blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/flat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/gray.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/green.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/light-green.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/light-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/real.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/red.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/solid.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/demo/video.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/divider2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/favi/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/favi/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/favi/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/googleplay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/brush-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/coffee-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/cog-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/diamond-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/flag-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/html5-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/mobile-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/papers-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/pc-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/pencil-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/rocket-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/search-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/support-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/thumbsup-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/icons/video-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/nav-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/nav-logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/course.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/jobs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/programmer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/phones/programmer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/screenshots/iPhone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/acs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/job.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/phone1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/phone2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/phone3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/phone4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/sliders/superman.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/team/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/team/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/team/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/team/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/team/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/img/windows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/SmoothScroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/appshowcase_3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/dist/wow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/dist/wow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/fswit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/jquery-2.0.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/jquery.timelinr-0.9.54.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/modernizr.custom.12691.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/js/toucheffects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 1.0/webdeveloper.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/COMP1002.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/blog-single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/css/framework.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/home-portfolio-galore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/apple-touch-icon-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/blog/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/blog/avatar@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/blog/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/blog/search@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/blog/standard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/courseBackground.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/cursors/cursor_close.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/cursors/cursor_close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/cursors/more.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/cursors/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/feature-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/black-controls-next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/black-controls-next@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/black-controls-prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/black-controls-prev@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-up-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-up-white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-up@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop-white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/drop@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/albums.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/albums@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/anchor@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/atention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/atention@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/battery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/battery@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/browser@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/call.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/call@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/camera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/camera@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/cart@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/chat@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/check@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/clock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/cloud@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/coffee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/coffee@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/comment@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/compass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/compass@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/config@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/copy-file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/copy-file@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/credit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/credit@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/date@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/diskette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/diskette@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/download@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/drop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/drop@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/edit@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/expand1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/expand1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/expand2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/expand2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/file@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/folder@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/gift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/gift@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/glases.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/glases@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/gleam.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/gleam@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/graph1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/graph1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/graph2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/graph2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/help2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/help2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/help@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/info@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/keypad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/keypad@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/less.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/less@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/light@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/like.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/like@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/link@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/lintern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/lintern@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/lock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/look.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/look@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/loop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/loop@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/magnet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/magnet@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/mail@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/map@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/micro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/micro@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/monitor@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/moon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/moon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/more@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/mouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/mouse@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/music@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/news-paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/news-paper@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/notebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/notebook@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/paint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/paint@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/paper-plane.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/paper-plane@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/pen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/pen@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/phone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/photo-gallery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/photo-gallery@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/plane.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/plane@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/play@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/plus@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/portfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/portfolio@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/power.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/power@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/radio@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/repeat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/repeat@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/science.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/science@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/search@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/share@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/shopbag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/shopbag@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/signal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/signal@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/study.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/study@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/suffle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/suffle@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/sun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/sun@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/target@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/ticket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/ticket@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/timer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/timer@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/tools@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/trash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/trash@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/umbrella.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/umbrella@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/unlock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/unlock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/upload@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/user@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-gray/video@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/albums.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/albums@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/anchor@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/atention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/atention@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/battery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/battery@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/browser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/browser@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/call.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/call@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/camera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/camera@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/cart@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/chat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/chat@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/check@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/clock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/cloud@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/coffee.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/coffee@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/comment.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/comment@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/compass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/compass@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/config@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/copy-file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/copy-file@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/credit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/credit@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/date@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/diskette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/diskette@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/download@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/drop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/drop@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/edit@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/expand1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/expand1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/expand2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/expand2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/file.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/file@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/folder@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/gift.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/gift@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/glases.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/glases@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/gleam.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/gleam@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/graph1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/graph1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/graph2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/graph2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/help2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/help2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/help@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/info@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/keypad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/keypad@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/less.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/less@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/light@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/like.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/like@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/link@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/lintern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/lintern@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/lock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/look.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/look@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/loop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/loop@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/magnet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/magnet@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/mail@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/map@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/micro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/micro@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/monitor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/monitor@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/moon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/moon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/more@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/mouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/mouse@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/music@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/news-paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/news-paper@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/notebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/notebook@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/paint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/paint@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/paper-plane.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/paper-plane@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/pen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/pen@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/phone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/photo-gallery.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/photo-gallery@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/plane.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/plane@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/play@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/plus@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/portfolio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/portfolio@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/power.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/power@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/radio@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/repeat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/repeat@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/science.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/science@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/search@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/share@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/shopbag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/shopbag@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/signal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/signal@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/study.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/study@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/suffle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/suffle@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/sun.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/sun@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/target@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/ticket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/ticket@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/timer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/timer@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/tools@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/trash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/trash@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/umbrella.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/umbrella@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/unlock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/unlock@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/upload@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/user@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/iconset-white/video@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/menu-close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/menu-close@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/menu-lines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/menu-lines@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/search-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/search-big@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/search-xs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/search-xs@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-active-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-active-white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-active@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager-white@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/slider-pager@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/white-controls-next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/white-controls-next@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/white-controls-prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/icons/white-controls-prev@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/ipad1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/1381493325_media-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-next-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-next-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-next-vertical-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-prev-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-prev-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/arrow-prev-vertical-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/caption-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/closedhand.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/fullscreen-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/fullscreen-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/pause-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/pause-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/play-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/play-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/thumb-overlay-play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/x-mark-icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/lightbox/x-mark-icon-ie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/1@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/2@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/3@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/4@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/Microsoft_Certified_Professional.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/acs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/ccna.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/logos/oracle-certified.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/nav-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/parallax.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/parallax.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/parallax2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/parallax3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/parallax4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/programmer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/rs/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/rs/grab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/rs/grabbing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/se.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp1001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp1002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp1003.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp1004.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp2001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp2003.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp2005.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp2006.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp2007.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp3005.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/comp3006.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/slide.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/team.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/thumbnail-xl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/images/work/thumbnail.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/404.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/backgroundcheck.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/js/retina.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/portfolio-gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/post.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/single-project.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/video/video-poster.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/video/video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/version 2.0/video/video.ogg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.html" afterPath="$PROJECT_DIR$/pages/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact.html" afterPath="$PROJECT_DIR$/pages/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/portfolio.html" afterPath="$PROJECT_DIR$/pages/portfolio.html" />
     </list>
     <ignored path="NavigationIT.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -654,11 +25,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3846154">
+            <state vertical-scroll-proportion="-394.0">
               <caret line="671" column="14" selection-start-line="671" selection-start-column="14" selection-end-line="671" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/portfolio-gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.59615386">
+              <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.875">
+              <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -667,7 +78,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="268" column="116" selection-start-line="268" selection-start-column="113" selection-end-line="268" selection-end-column="116" />
               <folding />
             </state>
@@ -677,7 +88,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="28.90196">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1117" column="20" selection-start-line="1117" selection-start-column="14" selection-end-line="1117" selection-end-column="20" />
               <folding />
             </state>
@@ -710,6 +121,9 @@
         <option value="$PROJECT_DIR$/version 1.0/index.html" />
         <option value="$PROJECT_DIR$/pages/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/portfolio.html" />
+        <option value="$PROJECT_DIR$/pages/about.html" />
+        <option value="$PROJECT_DIR$/pages/contact.html" />
       </list>
     </option>
   </component>
@@ -748,7 +162,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -801,6 +214,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -964,9 +378,33 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="268" column="116" selection-start-line="268" selection-start-column="113" selection-end-line="268" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="28.90196">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1117" column="20" selection-start-line="1117" selection-start-column="14" selection-end-line="1117" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1117" column="20" selection-start-line="1117" selection-start-column="14" selection-end-line="1117" selection-end-column="20" />
           <folding />
         </state>
@@ -974,16 +412,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="268" column="116" selection-start-line="268" selection-start-column="113" selection-end-line="268" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/portfolio-gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3846154">
+        <state vertical-scroll-proportion="-394.0">
           <caret line="671" column="14" selection-start-line="671" selection-start-column="14" selection-end-line="671" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875">
+          <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59615386">
+          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
           <folding />
         </state>
       </provider>
