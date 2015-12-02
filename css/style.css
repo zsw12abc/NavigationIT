@@ -768,14 +768,15 @@ li, ul {
   /*background: #f3f3f3;*/
   width: 100%;
   height: auto;
-  min-height: 690px;
-  max-height: 2500px;
+  /*min-height: 690px;*/
+  /*max-height: 2500px;*/
   background-size: cover;
   /*color: #ffffff;*/
   color: #888888;
   padding-bottom: 40px;
   padding-top: 40px;
   z-index: 999;
+    text-align: justify;
   }
 
 .team h2 {
