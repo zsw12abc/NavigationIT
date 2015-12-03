@@ -24,6 +24,9 @@
     <!-- My Style -->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/server.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
+    <script src="js/sweetalert.min.js"></script>
 
     <script src="js/modernizr.custom.12691.js"></script>
     <style>
@@ -231,7 +234,7 @@
                     <img class="flat-icons" src="img/icons/cog-icons.png" alt="flaticons">
                     <h5>多种课程设置</h5>
 
-                    <p>针对你选择的路线，安排相应的课程，设有必修与选修课程， 兴趣、实力兼顾的教学模式让你在未来职场游刃有余。.</p>
+                    <p>针对你选择的路线，安排相应的课程，兴趣、实力兼顾的教学模式让你在未来职场游刃有余。</p>
                 </div>
 
                 <div class="list wow fadeInUp" data-wow-delay="0.4s">
@@ -906,7 +909,7 @@
             </div>
 
             <div class="col-md-3 col-xs-6">
-                <h1 class="count">6</h1>
+                <h1 class="count">5</h1>
                 <h6>职业规划</h6>
             </div>
         </div>
@@ -1017,6 +1020,32 @@
     <div style="clear: both;"></div>
 </section>
 
+<div class="side">
+    <ul>
+        <li><a href="tel:+61406366958"><div class="sidebox"><img src="img/fa-phone.png">电话咨询</div></a></li>
+        <li><a href="mailto:wen.shao@linghang.education"><div class="sidebox"><img src="img/fa-envelope.png">邮件咨询</div></a></li>
+        <li><a href="javascript:showImage();" ><div class="sidebox"><img src="img/fa-weixin.png">微信</div></a></li>
+        <!--<li><a href="javascript:void(0);" ><div class="sidebox"><img src="http://demo.lanrenzhijia.com/2014/service1108/side_icon03.png">新浪微博</div></a></li>-->
+        <li style="border:none;"><a href="javascript:goTop();" class="sidetop"><img src="img/side_icon05.png"></a></li>
+    </ul>
+</div>
+<script src="http://www.lanrenzhijia.com/ajaxjs/jquery.min.js"></script>
+<script>
+    $(function(){
+        $(".side ul li").hover(function(){
+            $(this).find(".sidebox").stop().animate({"width":"124px"},200).css({"opacity":"1","filter":"Alpha(opacity=100)","background":"#ae1c1c"})
+        },function(){
+            $(this).find(".sidebox").stop().animate({"width":"54px"},200).css({"opacity":"0.8","filter":"Alpha(opacity=80)","background":"#000"})
+        });
+    });
+    //回到顶部函数
+    function goTop(){
+        $('html,body').animate({'scrollTop':0},300);
+    }
+    function showImage(){
+        swal({   title: "扫描我开始聊天吧",    imageUrl: "img/QR.png" });
+    }
+</script>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
