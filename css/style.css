@@ -750,7 +750,7 @@ li, ul {
     position: relative;
     width: 100%;
     height: auto;
-    background: url(../img/bg/action.jpg);
+    background: url(../img/bg/action.png);
     min-height: 320px;
     max-height: 1500px;
     background-size: cover;
